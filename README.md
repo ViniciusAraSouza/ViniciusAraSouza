@@ -1,16 +1,25 @@
-## Hi there 👋
+* Este sou eu.
 
-<!--
-**ViniciusAraSouza/ViniciusAraSouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou Vincius, aluno do senai e sesi e pretendo me formar em ambos.
 
-Here are some ideas to get you started:
+## Cursando dev.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Só tenho uma coisa a dizer, sou bom e novo
+
+*Posso escrever um pequeno trecho de codigo como `git status´ como então trechos maiores 
+
+```javascript
+const constante = 0; //constante deve ser iniciada
+```
+```python
+  print("Olá, mundo")
+}
+```
+
+Eu sou o Vinicius
+
+Atualmente cursando o ensio medio e cursando o tecnico de desenviolvimento de sisitemas no Senai Ipirnaga. 
+
+Tenho em meus plano seguir uma carreira de desenvedor.
+
+Em meu tempo livre eu gosto de jogar fut volei com meus amigos, e ficar com minha familia.
